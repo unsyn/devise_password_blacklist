@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = '~> 2.0'
 
   spec.add_runtime_dependency 'devise'
-  spec.add_runtime_dependency 'password_blacklist', '~> 0.1.0'
+  spec.add_runtime_dependency 'password_blacklist', '~> 0.3.0'
 
   spec.add_development_dependency 'activemodel'
   spec.add_development_dependency 'bundler', '~> 1.14'
